@@ -1,6 +1,3 @@
----------- Lightness Hub ----------
--- Power By : Fear of Lightness
--- Discord 'https://discord.gg/2rUuyfhDYm'
 _4k7XEX4QWoKBb6MG, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
