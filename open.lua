@@ -1,3 +1,13 @@
+--[[
+░▒█▀▀▀█░▀▀█▀▀░▒█▀▀▀█░▒█▀▀█░░░▒█▀▀▀░▒█▀▀▄░▀█▀░▀▀█▀▀
+░░▀▀▀▄▄░░▒█░░░▒█░░▒█░▒█▄▄█░░░▒█▀▀▀░▒█░▒█░▒█░░░▒█░░
+░▒█▄▄▄█░░▒█░░░▒█▄▄▄█░▒█░░░░░░▒█▄▄▄░▒█▄▄█░▄█▄░░▒█░░
+                                          
+Main Lightness Hub
+Don't edit any thing.
+https://discord.gg/2rUuyfhDYm
+]]--
+
 _bHEOBgAy86AIHBCb, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
