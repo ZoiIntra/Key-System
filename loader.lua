@@ -834,9 +834,9 @@ function Kavo.CreateLib(kavName, themeList)
                 TextBox.ClearTextOnFocus = false
                 TextBox.Font = Enum.Font.FredokaOne
                 TextBox.PlaceholderColor3 = Color3.fromRGB(themeList.SchemeColor.r * 255 - 19, themeList.SchemeColor.g * 255 - 26, themeList.SchemeColor.b * 255 - 35)
-                TextBox.PlaceholderText = "Type here!"
+                TextBox.PlaceholderText = "Put Value Here"
                 TextBox.Text = ""
-                TextBox.TextColor3 = themeList.SchemeColor
+                TextBox.TextColor3 = themeList.TextColor
                 TextBox.TextSize = 12.000
 
                 UICorner_2.CornerRadius = UDim.new(0, 4)
