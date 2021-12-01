@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/Lightness-Hub/main/run2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/White-Hub/main/run2.lua"))()
