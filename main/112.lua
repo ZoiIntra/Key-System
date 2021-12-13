@@ -63,18 +63,10 @@ else
 			KeyFrame.Visible = false
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/BloxFruit/main/DinoHub/AllScript.lua"))()
             game.StarterGui:SetCore("SendNotification", {Title="Key System"; Text="Dino Hub Loading..."; Duration=5;})
-        else
-            if KeyBox.Text == "HHBFS74Y21U" then
-                print("Hulk U Hub")
-                BlackGround.Visible = false
-                KeyFrame.Visible = false
-                SettingFrame.Visible = false
-                game.StarterGui:SetCore("SendNotification", {Title="Key System"; Text="Hulk H Hub Loading..."; Duration=5;})
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/BloxFruit/main/HulkUHub/AllScript.lua"))()
-            else
-                game.Players.LocalPlayer:Kick("Your key doesn't correct!, Please rejoin and put key again.")
-        end
-    end
+		else
+			game.Players.LocalPlayer:Kick("Your key not correct!")
+		end
+	end
 end
 end)
 UICorner_3.CornerRadius = UDim.new(0, 10)
